@@ -1,6 +1,6 @@
 # login_activity
 
-This is a basic login page created when I am bored which I think maybe I can use it for my future apps.
+This is a basic login page I created when am bored which I think maybe I can use it for my future apps.
 
 ## Screenshot
 
