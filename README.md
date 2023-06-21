@@ -5,6 +5,6 @@ This is a basic login page created when I am bored which I think maybe I can use
 ## Screenshot
 
 <p align="center">
-  <img src="lib/images/login.png" alt="Project Picture" width="400">
+  <img src="lib/images/login.png" alt="Project Picture" width="1000">
 </p>
 
