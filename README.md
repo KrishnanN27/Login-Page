@@ -1,16 +1,10 @@
 # login_activity
 
-A new Flutter project.
+This is a basic login page created when I am bored which I think maybe I can use it for my future apps.
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="lib/images/1.png" alt="Project Picture" width="400">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
